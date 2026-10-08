@@ -1,0 +1,10 @@
+{
+  "description": "Plataforma móvil que conecta estudiantes de ingeniería de sistemas con investigación, eventos y un proceso gamificado para unirse a la sociedad científica.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
